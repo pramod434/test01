@@ -15,5 +15,6 @@ class SessionsController < ApplicationController
   end
 
   def destroy
+  #   this destroys the session hers with all credentials
   end
 end
